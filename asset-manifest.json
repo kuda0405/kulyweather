@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kulyweather/static/css/main.a6d7f1db.chunk.css",
+    "main.js": "/kulyweather/static/js/main.cee777d5.chunk.js",
+    "main.js.map": "/kulyweather/static/js/main.cee777d5.chunk.js.map",
+    "runtime-main.js": "/kulyweather/static/js/runtime-main.e0d68404.js",
+    "runtime-main.js.map": "/kulyweather/static/js/runtime-main.e0d68404.js.map",
+    "static/js/2.02e817e5.chunk.js": "/kulyweather/static/js/2.02e817e5.chunk.js",
+    "static/js/2.02e817e5.chunk.js.map": "/kulyweather/static/js/2.02e817e5.chunk.js.map",
+    "static/js/3.e71d7877.chunk.js": "/kulyweather/static/js/3.e71d7877.chunk.js",
+    "static/js/3.e71d7877.chunk.js.map": "/kulyweather/static/js/3.e71d7877.chunk.js.map",
+    "index.html": "/kulyweather/index.html",
+    "static/css/main.a6d7f1db.chunk.css.map": "/kulyweather/static/css/main.a6d7f1db.chunk.css.map",
+    "static/js/2.02e817e5.chunk.js.LICENSE.txt": "/kulyweather/static/js/2.02e817e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kulyweather/static/media/warm.0c02d586.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d68404.js",
+    "static/js/2.02e817e5.chunk.js",
+    "static/css/main.a6d7f1db.chunk.css",
+    "static/js/main.cee777d5.chunk.js"
+  ]
+}
